@@ -1,0 +1,361 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Main Page"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Modules"><param name="Local" value="modules.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Heart rate 3 Click Driver"><param name="Local" value="group__heartrate3.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="group__macros.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MikroBUS"><param name="Local" value="group__map__mikrobus.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_MAP_MIKROBUS"><param name="Local" value="group__map__mikrobus.html#ga2f990cf6a7ffc5f53eb4e595781ce908"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Error Code"><param name="Local" value="group__error__code.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_INIT_ERROR"><param name="Local" value="group__error__code.html#ga09157efdf6b96e46b9be00e00ab75769"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_OK"><param name="Local" value="group__error__code.html#ga90fcc46f41c070ee7a8c31400bf145da"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_RETVAL"><param name="Local" value="group__error__code.html#ga1fb5711f176b05ef7b0e8ae8f503687d"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Device slave address"><param name="Local" value="group__dev__slave__adr.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_SLAVE_ADDR"><param name="Local" value="group__dev__slave__adr.html#gaf89aecb8fc4e362fabedebdc856347de"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Register map"><param name="Local" value="group__register__map.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT0"><param name="Local" value="group__register__map.html#gaae67dbe6747abccac4e09ac825db05f7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT1"><param name="Local" value="group__register__map.html#ga181f9fddc757601f0d6107ebf8255bbd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT2"><param name="Local" value="group__register__map.html#ga0c3379ca43d8613861c4febc2d413357"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT3"><param name="Local" value="group__register__map.html#gacb9364c3d662170e4ee36d6cdee587e8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT0"><param name="Local" value="group__register__map.html#gac4b80cbb5fc709e6c0a0f2560733be5c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT1"><param name="Local" value="group__register__map.html#ga2e6b13ad2066ece564c92b91fddfcbca"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT2"><param name="Local" value="group__register__map.html#gaf40fa8b93882c89646a8874750c7e60d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT3"><param name="Local" value="group__register__map.html#gae9e58280d70ddc2c996fa3f1f6d9c945"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALARM"><param name="Local" value="group__register__map.html#ga60f2db7cab09f8061b8e52ce3d83abfc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVEND"><param name="Local" value="group__register__map.html#ga9d6b316145c00e1508c45463de82dcab"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVST"><param name="Local" value="group__register__map.html#gae38098200737e3d217c622b1cdf37e5e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1ENDC"><param name="Local" value="group__register__map.html#gae3ab6955ac32e6f5756f0ed1a2b0e53a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1STC"><param name="Local" value="group__register__map.html#gac580dd9a2de5907123c71102c313b18a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1VAL"><param name="Local" value="group__register__map.html#gaf434eb91c4f2d4d9f871c8d0d07f5da1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVEND"><param name="Local" value="group__register__map.html#gaf1ab85f0aa4febdf06b939c72648309b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVST"><param name="Local" value="group__register__map.html#ga48090c57d789fe0b605ade4b7d1b1f0b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2ENDC"><param name="Local" value="group__register__map.html#ga31be3f2dcbb4f0536138121f0bc395c7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2STC"><param name="Local" value="group__register__map.html#ga0be5a2f5950df2cad92cb48493c6ea9e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2VAL"><param name="Local" value="group__register__map.html#ga669c194ed5ce3625cc5f223a586e6b3e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_AVG_LED1_ALED1VAL"><param name="Local" value="group__register__map.html#ga416963c7305874ca9cc1c7c4995a7e87"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_AVG_LED2_ALED2VAL"><param name="Local" value="group__register__map.html#ga645aa8292f13948d7abbf1b8b2a7c0fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CLKDIV_PRF"><param name="Local" value="group__register__map.html#ga25c1ae60384fafcfab3352d2065a7ed2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL0"><param name="Local" value="group__register__map.html#gacec48897d87fe3607ae31ffa5fe7b885"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL1"><param name="Local" value="group__register__map.html#gae6af69b4048b5e02d748f5a614de343e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL2"><param name="Local" value="group__register__map.html#ga377506adf0fe62b516dde999c978c735"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL3"><param name="Local" value="group__register__map.html#ga46da792c2cc2f6192dc80c509a81d0dc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_DEC"><param name="Local" value="group__register__map.html#gafe4d1f715e4ae3d465671e8825312ea6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1_ALED1VAL"><param name="Local" value="group__register__map.html#gac0de40b0f65739f2915d5af802cc71c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVEND"><param name="Local" value="group__register__map.html#ga16159009eb8ce7814f9672a77010fa43"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVST"><param name="Local" value="group__register__map.html#ga8358ac6bac4b3ae98d1f428173727738"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1ENDC"><param name="Local" value="group__register__map.html#gac2f39accbffce8e580db0d387ef1b365"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDENDC"><param name="Local" value="group__register__map.html#gada81ed8c7cec31afab007595ae6daaf8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDSTC"><param name="Local" value="group__register__map.html#ga656c9b804024a470cffe39e1372c2749"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1STC"><param name="Local" value="group__register__map.html#ga7eb4f9317720ad5b5b9af6519afba077"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1VAL"><param name="Local" value="group__register__map.html#ga4b284cb273aea43b1b701545916bf92d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2_ALED2VAL"><param name="Local" value="group__register__map.html#gad3af9b4dbbc2e8e60e801d2181c70174"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVEND"><param name="Local" value="group__register__map.html#ga4d7e6ba94733a3344c4f8504d8c001c8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVST"><param name="Local" value="group__register__map.html#ga530e73344ca05901947d983f4f0cf769"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2ENDC"><param name="Local" value="group__register__map.html#ga88e42d293993a680408f85ad2493c595"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDENDC"><param name="Local" value="group__register__map.html#gaec9adde1ae911882fddf65f8e3070e64"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDSTC"><param name="Local" value="group__register__map.html#ga957516ee78a3803c3fac9dc57f8e024a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2STC"><param name="Local" value="group__register__map.html#ga80c2fbe0a095868c3857fc17812891f8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2VAL"><param name="Local" value="group__register__map.html#gad40f686e09a336877d0fb3f2f6b73440"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDENDC"><param name="Local" value="group__register__map.html#ga35cdb172cf7cb5d9b5ab28441df7381b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDSTC"><param name="Local" value="group__register__map.html#gaedb314033a70e5a3d97a1226f9dfc663"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LEDCNTRL"><param name="Local" value="group__register__map.html#ga9762d8aa3ae1392cf559ce492c095268"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_OFFDAC"><param name="Local" value="group__register__map.html#ga0003e83676d25a27deb94b099bcdc523"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLEENDC"><param name="Local" value="group__register__map.html#ga14b9fa6029466cd07e79794cd7f10de2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLESTC"><param name="Local" value="group__register__map.html#ga8f8b6ed6b6dc9aa8ec8f65716d0d037b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_ENDC"><param name="Local" value="group__register__map.html#ga12840b23dece6c783af00f59f0948a64"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_STC"><param name="Local" value="group__register__map.html#gaacb56dad118cd78cbe73cfdf1db09ebb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PRPCOUNT"><param name="Local" value="group__register__map.html#ga88d23932fe4ba7fbb0a1acff6853cb1f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN"><param name="Local" value="group__register__map.html#ga0ce6fa8c416fea81e17a50007477af52"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN_SEP"><param name="Local" value="group__register__map.html#ga79a701d2ecc8f419626bcc5fa2433bc6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Configuration commands list"><param name="Local" value="group__cmd__list.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT0_CMD"><param name="Local" value="group__cmd__list.html#ga2b231a45006faf2261e8ab89ef2ee6c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT1_CMD"><param name="Local" value="group__cmd__list.html#gad94e5f600d6f62764c3a633091662076"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT2_CMD"><param name="Local" value="group__cmd__list.html#ga55acafdc21a4c5b7fce8729242e5a74f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT3_CMD"><param name="Local" value="group__cmd__list.html#ga2675bfc8f55b5d07df12fc3486e8d26e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT0_CMD"><param name="Local" value="group__cmd__list.html#gac6f34c9312db6a38f67d0a5966a3fc15"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT1_CMD"><param name="Local" value="group__cmd__list.html#gabadbce4ec662622f9115f42f65a2670d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT2_CMD"><param name="Local" value="group__cmd__list.html#gaaef1466abb2a6d97fe90226d230ebbcd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT3_CMD"><param name="Local" value="group__cmd__list.html#ga62f4fbebc323508af4edd3a36586cc0a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALARM_CMD"><param name="Local" value="group__cmd__list.html#ga721afb3c41f68253199bb2299d4c8692"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga01ae36a44d4990eb858def23632e2ce1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVST_CMD"><param name="Local" value="group__cmd__list.html#gab1cbf1f41cd66e5f903dc19b63095979"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1ENDC_CMD"><param name="Local" value="group__cmd__list.html#gacf5396d844e019d0961b1bee7ae28b6c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1STC_CMD"><param name="Local" value="group__cmd__list.html#ga6cb98980486f9ef16474ea8d3938217e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga5ce4405433df7a77f362c8fc83be3530"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVST_CMD"><param name="Local" value="group__cmd__list.html#ga38697ea49d04a4397bde12006d47f131"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2ENDC_CMD"><param name="Local" value="group__cmd__list.html#ga2f3e10df02a187d8f21dab09247ffac7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2STC_CMD"><param name="Local" value="group__cmd__list.html#gaec982ed543f226f7ba80b1ba34fa7271"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CLKDIV_PRF_CMD"><param name="Local" value="group__cmd__list.html#ga57b0d6f5d751252401e99fd61068e260"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL0_CMD"><param name="Local" value="group__cmd__list.html#ga38f6290649d626d1367f9729ecb7d890"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL1_CMD"><param name="Local" value="group__cmd__list.html#ga78dfc66faf4c3fe213ee055fe61c0d22"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL2_CMD"><param name="Local" value="group__cmd__list.html#ga3bb1bbfa99dd3ac0e32f37f77ea38df9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL3_CMD"><param name="Local" value="group__cmd__list.html#ga49e104a89e4fbfbf7475b9bcd9c754eb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga8bea44eecfca54aae7459464b87887dd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVST_CMD"><param name="Local" value="group__cmd__list.html#ga3648cbc7e6bb741966a11f8fa6e8a27d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1ENDC_CMD"><param name="Local" value="group__cmd__list.html#ga691136b9595019187cc1a7d7577b55fa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDENDC_CMD"><param name="Local" value="group__cmd__list.html#gad78274092cd1ff4f69b3ca5eac6763e2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDSTC_CMD"><param name="Local" value="group__cmd__list.html#ga4cca736dbefc72214a9bdac45e3b2f9b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1STC_CMD"><param name="Local" value="group__cmd__list.html#gad01a8da7f7d1470ba8ff6d6b29fdbd02"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga44f7def4a9c65422f5806e044fcdc609"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVST_CMD"><param name="Local" value="group__cmd__list.html#ga6593780be79c519ac060d254486a6ab7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2ENDC_CMD"><param name="Local" value="group__cmd__list.html#ga7208b03685e92aa0484c11140f9711f9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDENDC_CMD"><param name="Local" value="group__cmd__list.html#ga9909206ffbf601a0ae5aadeefb2d64f1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDSTC_CMD"><param name="Local" value="group__cmd__list.html#ga5b3c054dfd6b9a79840c9ee8142ce857"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2STC_CMD"><param name="Local" value="group__cmd__list.html#ga2188ba9d1dc89bd71f3b9e790d48c362"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDENDC_CMD"><param name="Local" value="group__cmd__list.html#ga6ed9585363d91b7ae6977bed0e56955d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDSTC_CMD"><param name="Local" value="group__cmd__list.html#ga7d01d69d50219f846b76dca640a1fcf8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LEDCNTRL_CMD"><param name="Local" value="group__cmd__list.html#gafa8f8253e36f96a340976f63424ccae8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_OFFDAC_CMD"><param name="Local" value="group__cmd__list.html#ga57ff1981c702065254d0be3ba4fc91e9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLEENDC_CMD"><param name="Local" value="group__cmd__list.html#ga0e6f09be40d3980cf6ed12af190263f0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLESTC_CMD"><param name="Local" value="group__cmd__list.html#gaa7277649620f20539559e3f26729cf96"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_ENDC_CMD"><param name="Local" value="group__cmd__list.html#gaaac5405a065e4a80e9fe92e93a48b5a3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_STC_CMD"><param name="Local" value="group__cmd__list.html#ga7ddc79e6310f2344a0f818562c8cd8db"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PRPCOUNT_CMD"><param name="Local" value="group__cmd__list.html#gada0b46942c2ba9c6fdb46a1bf403cafa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN_CMD"><param name="Local" value="group__cmd__list.html#gafee3dcfab1010d0f602a9372eab4a5f0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN_SEP_CMD"><param name="Local" value="group__cmd__list.html#ga202b08fa7cef5b058ff95c0152d7ad55"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Pin state"><param name="Local" value="group__pin__state.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PIN_STATE_HIGH"><param name="Local" value="group__pin__state.html#ga7bcd1858c8fc1278993b94395ff84fb7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PIN_STATE_LOW"><param name="Local" value="group__pin__state.html#ga4f12d378e4da728bc3aeac6fa1650b37"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Types"><param name="Local" value="group__type.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_t"><param name="Local" value="structheartrate3__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="clk"><param name="Local" value="structheartrate3__t.html#ac0d914b006a9eb5c78cf3dcf5347741a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c"><param name="Local" value="structheartrate3__t.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rdy"><param name="Local" value="structheartrate3__t.html#afb6c7d1370101ae88d5a95a63eea49c0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rst"><param name="Local" value="structheartrate3__t.html#ac460e94a3d39e1ad4e939d2c04bdc454"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="slave_address"><param name="Local" value="structheartrate3__t.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_cfg_t"><param name="Local" value="structheartrate3__cfg__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="clk"><param name="Local" value="structheartrate3__cfg__t.html#a2a874c5c87bb264d457cdd960cb92ca6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_address"><param name="Local" value="structheartrate3__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_speed"><param name="Local" value="structheartrate3__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rdy"><param name="Local" value="structheartrate3__cfg__t.html#acfa6a54be8638795f449c10d5d7fcc78"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rst"><param name="Local" value="structheartrate3__cfg__t.html#aeba85e9319a5c8c3a7bab5cb503278e4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scl"><param name="Local" value="structheartrate3__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sda"><param name="Local" value="structheartrate3__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Public function"><param name="Local" value="group__public__function.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_cfg_setup"><param name="Local" value="group__public__function.html#gab5a31ca3f48a3639d90d3dd2d6e12a7f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_check_data_ready"><param name="Local" value="group__public__function.html#ga846217f1aeccf401c796489e742ff127"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_clk_state"><param name="Local" value="group__public__function.html#ga4e489935290d6e93cf930a38703ce15d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_default_cfg"><param name="Local" value="group__public__function.html#gad371d20671af5b5cdac5bcf6657b8af7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_generic_read"><param name="Local" value="group__public__function.html#gab4f7fd60d455588879f22b56b5bb5051"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_generic_write"><param name="Local" value="group__public__function.html#ga2e4bfac287cd0390bbcffd27faf622b0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_init"><param name="Local" value="group__public__function.html#gac8df366a4d30181c4a67cf262fa9189a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_read_u16"><param name="Local" value="group__public__function.html#ga8beb2c1cdce12bb88f7f9e4fdf02b599"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_read_u32"><param name="Local" value="group__public__function.html#gababda046a468f858483bd7657f46a89a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_rst_state"><param name="Local" value="group__public__function.html#ga02447eddf905fe06a318b4d35f8b667e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_write_data"><param name="Local" value="group__public__function.html#gaea9f513a32f9bfcab7317222e383f0c1"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_cfg_t"><param name="Local" value="structheartrate3__cfg__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clk"><param name="Local" value="structheartrate3__cfg__t.html#a2a874c5c87bb264d457cdd960cb92ca6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_address"><param name="Local" value="structheartrate3__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_speed"><param name="Local" value="structheartrate3__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rdy"><param name="Local" value="structheartrate3__cfg__t.html#acfa6a54be8638795f449c10d5d7fcc78"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rst"><param name="Local" value="structheartrate3__cfg__t.html#aeba85e9319a5c8c3a7bab5cb503278e4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="scl"><param name="Local" value="structheartrate3__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sda"><param name="Local" value="structheartrate3__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_t"><param name="Local" value="structheartrate3__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clk"><param name="Local" value="structheartrate3__t.html#ac0d914b006a9eb5c78cf3dcf5347741a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c"><param name="Local" value="structheartrate3__t.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rdy"><param name="Local" value="structheartrate3__t.html#afb6c7d1370101ae88d5a95a63eea49c0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rst"><param name="Local" value="structheartrate3__t.html#ac460e94a3d39e1ad4e939d2c04bdc454"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="slave_address"><param name="Local" value="structheartrate3__t.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="clicks"><param name="Local" value="dir_87bb8de878133f06c0bcf9fc6a460fa0.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3"><param name="Local" value="dir_78ae0e68460d51a3a606928e228ec00f.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="example"><param name="Local" value="dir_fa51909aa55aa07f4876271b11c9faea.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="main.c"><param name="Local" value="main_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="application_init"><param name="Local" value="main_8c.html#a0e95431f48ee71c1040217b94766ffcf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="application_task"><param name="Local" value="main_8c.html#a362899c9f270bb296179185fd96b878e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="lib"><param name="Local" value="dir_ad8418846485b9156c7c41b298094e08.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="include"><param name="Local" value="dir_45e626dfd51a2ebd43a317768f41ebb8.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3.h"><param name="Local" value="heartrate3_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT0"><param name="Local" value="group__register__map.html#gaae67dbe6747abccac4e09ac825db05f7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT0_CMD"><param name="Local" value="group__cmd__list.html#ga2b231a45006faf2261e8ab89ef2ee6c4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT1"><param name="Local" value="group__register__map.html#ga181f9fddc757601f0d6107ebf8255bbd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT1_CMD"><param name="Local" value="group__cmd__list.html#gad94e5f600d6f62764c3a633091662076"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT2"><param name="Local" value="group__register__map.html#ga0c3379ca43d8613861c4febc2d413357"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT2_CMD"><param name="Local" value="group__cmd__list.html#ga55acafdc21a4c5b7fce8729242e5a74f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT3"><param name="Local" value="group__register__map.html#gacb9364c3d662170e4ee36d6cdee587e8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTENDCT3_CMD"><param name="Local" value="group__cmd__list.html#ga2675bfc8f55b5d07df12fc3486e8d26e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT0"><param name="Local" value="group__register__map.html#gac4b80cbb5fc709e6c0a0f2560733be5c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT0_CMD"><param name="Local" value="group__cmd__list.html#gac6f34c9312db6a38f67d0a5966a3fc15"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT1"><param name="Local" value="group__register__map.html#ga2e6b13ad2066ece564c92b91fddfcbca"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT1_CMD"><param name="Local" value="group__cmd__list.html#gabadbce4ec662622f9115f42f65a2670d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT2"><param name="Local" value="group__register__map.html#gaf40fa8b93882c89646a8874750c7e60d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT2_CMD"><param name="Local" value="group__cmd__list.html#gaaef1466abb2a6d97fe90226d230ebbcd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT3"><param name="Local" value="group__register__map.html#gae9e58280d70ddc2c996fa3f1f6d9c945"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ADCRSTSTCT3_CMD"><param name="Local" value="group__cmd__list.html#ga62f4fbebc323508af4edd3a36586cc0a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALARM"><param name="Local" value="group__register__map.html#ga60f2db7cab09f8061b8e52ce3d83abfc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALARM_CMD"><param name="Local" value="group__cmd__list.html#ga721afb3c41f68253199bb2299d4c8692"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVEND"><param name="Local" value="group__register__map.html#ga9d6b316145c00e1508c45463de82dcab"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga01ae36a44d4990eb858def23632e2ce1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVST"><param name="Local" value="group__register__map.html#gae38098200737e3d217c622b1cdf37e5e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1CONVST_CMD"><param name="Local" value="group__cmd__list.html#gab1cbf1f41cd66e5f903dc19b63095979"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1ENDC"><param name="Local" value="group__register__map.html#gae3ab6955ac32e6f5756f0ed1a2b0e53a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1ENDC_CMD"><param name="Local" value="group__cmd__list.html#gacf5396d844e019d0961b1bee7ae28b6c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1STC"><param name="Local" value="group__register__map.html#gac580dd9a2de5907123c71102c313b18a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1STC_CMD"><param name="Local" value="group__cmd__list.html#ga6cb98980486f9ef16474ea8d3938217e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED1VAL"><param name="Local" value="group__register__map.html#gaf434eb91c4f2d4d9f871c8d0d07f5da1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVEND"><param name="Local" value="group__register__map.html#gaf1ab85f0aa4febdf06b939c72648309b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga5ce4405433df7a77f362c8fc83be3530"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVST"><param name="Local" value="group__register__map.html#ga48090c57d789fe0b605ade4b7d1b1f0b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2CONVST_CMD"><param name="Local" value="group__cmd__list.html#ga38697ea49d04a4397bde12006d47f131"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2ENDC"><param name="Local" value="group__register__map.html#ga31be3f2dcbb4f0536138121f0bc395c7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2ENDC_CMD"><param name="Local" value="group__cmd__list.html#ga2f3e10df02a187d8f21dab09247ffac7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2STC"><param name="Local" value="group__register__map.html#ga0be5a2f5950df2cad92cb48493c6ea9e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2STC_CMD"><param name="Local" value="group__cmd__list.html#gaec982ed543f226f7ba80b1ba34fa7271"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_ALED2VAL"><param name="Local" value="group__register__map.html#ga669c194ed5ce3625cc5f223a586e6b3e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_AVG_LED1_ALED1VAL"><param name="Local" value="group__register__map.html#ga416963c7305874ca9cc1c7c4995a7e87"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_AVG_LED2_ALED2VAL"><param name="Local" value="group__register__map.html#ga645aa8292f13948d7abbf1b8b2a7c0fe"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CLKDIV_PRF"><param name="Local" value="group__register__map.html#ga25c1ae60384fafcfab3352d2065a7ed2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CLKDIV_PRF_CMD"><param name="Local" value="group__cmd__list.html#ga57b0d6f5d751252401e99fd61068e260"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL0"><param name="Local" value="group__register__map.html#gacec48897d87fe3607ae31ffa5fe7b885"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL0_CMD"><param name="Local" value="group__cmd__list.html#ga38f6290649d626d1367f9729ecb7d890"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL1"><param name="Local" value="group__register__map.html#gae6af69b4048b5e02d748f5a614de343e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL1_CMD"><param name="Local" value="group__cmd__list.html#ga78dfc66faf4c3fe213ee055fe61c0d22"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL2"><param name="Local" value="group__register__map.html#ga377506adf0fe62b516dde999c978c735"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL2_CMD"><param name="Local" value="group__cmd__list.html#ga3bb1bbfa99dd3ac0e32f37f77ea38df9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL3"><param name="Local" value="group__register__map.html#ga46da792c2cc2f6192dc80c509a81d0dc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_CONTROL3_CMD"><param name="Local" value="group__cmd__list.html#ga49e104a89e4fbfbf7475b9bcd9c754eb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_DEC"><param name="Local" value="group__register__map.html#gafe4d1f715e4ae3d465671e8825312ea6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_INIT_ERROR"><param name="Local" value="group__error__code.html#ga09157efdf6b96e46b9be00e00ab75769"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1_ALED1VAL"><param name="Local" value="group__register__map.html#gac0de40b0f65739f2915d5af802cc71c5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVEND"><param name="Local" value="group__register__map.html#ga16159009eb8ce7814f9672a77010fa43"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga8bea44eecfca54aae7459464b87887dd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVST"><param name="Local" value="group__register__map.html#ga8358ac6bac4b3ae98d1f428173727738"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1CONVST_CMD"><param name="Local" value="group__cmd__list.html#ga3648cbc7e6bb741966a11f8fa6e8a27d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1ENDC"><param name="Local" value="group__register__map.html#gac2f39accbffce8e580db0d387ef1b365"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1ENDC_CMD"><param name="Local" value="group__cmd__list.html#ga691136b9595019187cc1a7d7577b55fa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDENDC"><param name="Local" value="group__register__map.html#gada81ed8c7cec31afab007595ae6daaf8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDENDC_CMD"><param name="Local" value="group__cmd__list.html#gad78274092cd1ff4f69b3ca5eac6763e2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDSTC"><param name="Local" value="group__register__map.html#ga656c9b804024a470cffe39e1372c2749"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1LEDSTC_CMD"><param name="Local" value="group__cmd__list.html#ga4cca736dbefc72214a9bdac45e3b2f9b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1STC"><param name="Local" value="group__register__map.html#ga7eb4f9317720ad5b5b9af6519afba077"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1STC_CMD"><param name="Local" value="group__cmd__list.html#gad01a8da7f7d1470ba8ff6d6b29fdbd02"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED1VAL"><param name="Local" value="group__register__map.html#ga4b284cb273aea43b1b701545916bf92d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2_ALED2VAL"><param name="Local" value="group__register__map.html#gad3af9b4dbbc2e8e60e801d2181c70174"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVEND"><param name="Local" value="group__register__map.html#ga4d7e6ba94733a3344c4f8504d8c001c8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVEND_CMD"><param name="Local" value="group__cmd__list.html#ga44f7def4a9c65422f5806e044fcdc609"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVST"><param name="Local" value="group__register__map.html#ga530e73344ca05901947d983f4f0cf769"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2CONVST_CMD"><param name="Local" value="group__cmd__list.html#ga6593780be79c519ac060d254486a6ab7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2ENDC"><param name="Local" value="group__register__map.html#ga88e42d293993a680408f85ad2493c595"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2ENDC_CMD"><param name="Local" value="group__cmd__list.html#ga7208b03685e92aa0484c11140f9711f9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDENDC"><param name="Local" value="group__register__map.html#gaec9adde1ae911882fddf65f8e3070e64"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDENDC_CMD"><param name="Local" value="group__cmd__list.html#ga9909206ffbf601a0ae5aadeefb2d64f1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDSTC"><param name="Local" value="group__register__map.html#ga957516ee78a3803c3fac9dc57f8e024a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2LEDSTC_CMD"><param name="Local" value="group__cmd__list.html#ga5b3c054dfd6b9a79840c9ee8142ce857"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2STC"><param name="Local" value="group__register__map.html#ga80c2fbe0a095868c3857fc17812891f8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2STC_CMD"><param name="Local" value="group__cmd__list.html#ga2188ba9d1dc89bd71f3b9e790d48c362"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED2VAL"><param name="Local" value="group__register__map.html#gad40f686e09a336877d0fb3f2f6b73440"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDENDC"><param name="Local" value="group__register__map.html#ga35cdb172cf7cb5d9b5ab28441df7381b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDENDC_CMD"><param name="Local" value="group__cmd__list.html#ga6ed9585363d91b7ae6977bed0e56955d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDSTC"><param name="Local" value="group__register__map.html#gaedb314033a70e5a3d97a1226f9dfc663"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LED3LEDSTC_CMD"><param name="Local" value="group__cmd__list.html#ga7d01d69d50219f846b76dca640a1fcf8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LEDCNTRL"><param name="Local" value="group__register__map.html#ga9762d8aa3ae1392cf559ce492c095268"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_LEDCNTRL_CMD"><param name="Local" value="group__cmd__list.html#gafa8f8253e36f96a340976f63424ccae8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_MAP_MIKROBUS"><param name="Local" value="group__map__mikrobus.html#ga2f990cf6a7ffc5f53eb4e595781ce908"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_OFFDAC"><param name="Local" value="group__register__map.html#ga0003e83676d25a27deb94b099bcdc523"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_OFFDAC_CMD"><param name="Local" value="group__cmd__list.html#ga57ff1981c702065254d0be3ba4fc91e9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_OK"><param name="Local" value="group__error__code.html#ga90fcc46f41c070ee7a8c31400bf145da"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLEENDC"><param name="Local" value="group__register__map.html#ga14b9fa6029466cd07e79794cd7f10de2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLEENDC_CMD"><param name="Local" value="group__cmd__list.html#ga0e6f09be40d3980cf6ed12af190263f0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLESTC"><param name="Local" value="group__register__map.html#ga8f8b6ed6b6dc9aa8ec8f65716d0d037b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PDNCYCLESTC_CMD"><param name="Local" value="group__cmd__list.html#gaa7277649620f20539559e3f26729cf96"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PIN_STATE_HIGH"><param name="Local" value="group__pin__state.html#ga7bcd1858c8fc1278993b94395ff84fb7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PIN_STATE_LOW"><param name="Local" value="group__pin__state.html#ga4f12d378e4da728bc3aeac6fa1650b37"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_ENDC"><param name="Local" value="group__register__map.html#ga12840b23dece6c783af00f59f0948a64"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_ENDC_CMD"><param name="Local" value="group__cmd__list.html#gaaac5405a065e4a80e9fe92e93a48b5a3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_STC"><param name="Local" value="group__register__map.html#gaacb56dad118cd78cbe73cfdf1db09ebb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PROG_TG_STC_CMD"><param name="Local" value="group__cmd__list.html#ga7ddc79e6310f2344a0f818562c8cd8db"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PRPCOUNT"><param name="Local" value="group__register__map.html#ga88d23932fe4ba7fbb0a1acff6853cb1f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_PRPCOUNT_CMD"><param name="Local" value="group__cmd__list.html#gada0b46942c2ba9c6fdb46a1bf403cafa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_RETVAL"><param name="Local" value="group__error__code.html#ga1fb5711f176b05ef7b0e8ae8f503687d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_SLAVE_ADDR"><param name="Local" value="group__dev__slave__adr.html#gaf89aecb8fc4e362fabedebdc856347de"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN"><param name="Local" value="group__register__map.html#ga0ce6fa8c416fea81e17a50007477af52"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN_CMD"><param name="Local" value="group__cmd__list.html#gafee3dcfab1010d0f602a9372eab4a5f0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN_SEP"><param name="Local" value="group__register__map.html#ga79a701d2ecc8f419626bcc5fa2433bc6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEARTRATE3_TIA_GAIN_SEP_CMD"><param name="Local" value="group__cmd__list.html#ga202b08fa7cef5b058ff95c0152d7ad55"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_cfg_setup"><param name="Local" value="group__public__function.html#gab5a31ca3f48a3639d90d3dd2d6e12a7f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_check_data_ready"><param name="Local" value="group__public__function.html#ga846217f1aeccf401c796489e742ff127"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_clk_state"><param name="Local" value="group__public__function.html#ga4e489935290d6e93cf930a38703ce15d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_default_cfg"><param name="Local" value="group__public__function.html#gad371d20671af5b5cdac5bcf6657b8af7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_generic_read"><param name="Local" value="group__public__function.html#gab4f7fd60d455588879f22b56b5bb5051"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_generic_write"><param name="Local" value="group__public__function.html#ga2e4bfac287cd0390bbcffd27faf622b0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_init"><param name="Local" value="group__public__function.html#gac8df366a4d30181c4a67cf262fa9189a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_read_u16"><param name="Local" value="group__public__function.html#ga8beb2c1cdce12bb88f7f9e4fdf02b599"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_read_u32"><param name="Local" value="group__public__function.html#gababda046a468f858483bd7657f46a89a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_rst_state"><param name="Local" value="group__public__function.html#ga02447eddf905fe06a318b4d35f8b667e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="heartrate3_write_data"><param name="Local" value="group__public__function.html#gaea9f513a32f9bfcab7317222e383f0c1"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

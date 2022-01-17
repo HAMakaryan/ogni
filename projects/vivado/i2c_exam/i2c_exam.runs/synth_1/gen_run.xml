@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a35ticsg324-1L" LaunchTime="1641827005">
+  <File Type="PA-TCL" Name="uart_top.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="uart_top_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="uart_top_reports.tcl"/>
+  <File Type="RDS-RDS" Name="uart_top.vds"/>
+  <File Type="RDS-UTIL" Name="uart_top_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="uart_top_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="uart_top.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="uart_top_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="uart_top_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/baud_gen.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/baud_gen.v"/>
+        <Attr Name="ImportTime" Val="1630481199"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/fifo.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/fifo.v"/>
+        <Attr Name="ImportTime" Val="1631171815"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/fifo_ctrl.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/fifo_ctrl.v"/>
+        <Attr Name="ImportTime" Val="1631487480"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/reg_file.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/reg_file.v"/>
+        <Attr Name="ImportTime" Val="1631516495"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/uart.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/uart.v"/>
+        <Attr Name="ImportTime" Val="1631521494"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/uart_rx.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/uart_rx.v"/>
+        <Attr Name="ImportTime" Val="1630915122"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/uart_tx.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/uart_tx.v"/>
+        <Attr Name="ImportTime" Val="1631173527"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/uart_top.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/uart_top.v"/>
+        <Attr Name="ImportTime" Val="1640608143"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/srcs/uart_top_tb.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/uart_top_tb.v"/>
+        <Attr Name="ImportTime" Val="1640608174"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="uart_top"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/srcs/Arty_Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../ITC/A_Guide_to_Digital_Design_and_Synthesis/Projects/UART/srcs/Arty_Master.xdc"/>
+        <Attr Name="ImportTime" Val="1632730145"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
+</GenRun>

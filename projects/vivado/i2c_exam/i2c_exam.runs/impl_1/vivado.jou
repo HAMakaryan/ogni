@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jan 10 19:55:06 2022
+# Process ID: 6120
+# Current directory: D:/GitHub/ogni/projects/vivado/i2c_exam/i2c_exam.runs/impl_1
+# Command line: vivado.exe -log uart_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source uart_top.tcl -notrace
+# Log file: D:/GitHub/ogni/projects/vivado/i2c_exam/i2c_exam.runs/impl_1/uart_top.vdi
+# Journal file: D:/GitHub/ogni/projects/vivado/i2c_exam/i2c_exam.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source uart_top.tcl -notrace

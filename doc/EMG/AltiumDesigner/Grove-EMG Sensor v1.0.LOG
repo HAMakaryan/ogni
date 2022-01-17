@@ -1,0 +1,46 @@
+Importer Log Report
+Project : Grove-EMG Sensor v1.0.PrjPcb
+
+Section : Analyze Document - c:\net\data\arkservice\f4bd8ca1-6c9d-45de-9b62-fe529546e232\s\e\grove-emg sensor v1.0\Grove-EMG Sensor v1.0.sch
+    Analyzing data of c:\net\data\arkservice\f4bd8ca1-6c9d-45de-9b62-fe529546e232\s\e\grove-emg sensor v1.0\Grove-EMG Sensor v1.0.sch
+    Load settings
+    Load layers 127
+    Load schematic
+    Load Libraries 8
+    Load Library "SUPPLY2"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "moudle"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "IC"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Discrete"
+    Load Packages 36
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "Connector "
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "template"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "For_Test_Albert_v6"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 2
+    Load Parts 66
+    Load Sheets 1
+EndSection
