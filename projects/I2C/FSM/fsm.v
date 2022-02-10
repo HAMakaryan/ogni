@@ -63,19 +63,15 @@ module fsm(
     always begin
         if(reset == 1) begin
             state <= STATE_IDLE;
-//            sda <= 1;
-//            scl <= 1;
         end else begin
             case(state)
                 STATE_IDLE: begin
                     if(cmd == START_CMD) begin
-//                        sda <= 0;
                         state <= STATE_START1;
                     end
                 end
 
                 STATE_START1: begin
-//                    scl <= 0;
                     state <= STATE_START2;
                 end
 
@@ -94,18 +90,14 @@ module fsm(
                 end
 
                 STATE_STOP1: begin
-//                    scl <= 1;
                     state <= STATE_STOP2;
                 end
 
                 STATE_STOP2: begin
-//                    sda <= 1;
                     state <= STATE_IDLE;
                 end
 
                 STATE_DATA1: begin
-//                    sda = tx_reg[8];
-//                    tx_reg = tx_reg << 1;
                     state <= STATE_DATA2;
                 end
 
