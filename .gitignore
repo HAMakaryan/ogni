@@ -1,3 +1,6 @@
 *temp/
 I2C_Master_FromDigikey/
+*.pui
+*.prj
+
 
